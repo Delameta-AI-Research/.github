@@ -8,8 +8,8 @@ List of Delameta's Launched AI Products.
 
 <ins>**Vision**</ins>
 
-+ **People Analytics**
-  - Incident (stop, slow vehicle, congested/fluid traffic, wrong way, pedesterian, debris, fire, etc).
++ **Vehicle Analytics**
+  - Incident (stop, slow vehicle, congested/fluid traffic, wrong way, pedestrian, debris, fire, etc).
   - Traffic Statistics (counter, average speed, occupancy, headway, etc).
   - Traffic Counter.
   - Vehicle Color and Logo Recognition. 
@@ -19,9 +19,9 @@ List of Delameta's Launched AI Products.
 
 + **People Analytics**
   - People Counter.
-  - Crowd Estimation.
 
 + **Annotation Service**
   - **KAT**: 3D Object Detection Annotation Tool.
 
-&copy; **2022**, Artificial Intelligence (AI) Division. [**PT Delameta Bilano**](https://delameta.com)
+---
+&copy; **2022**, Department of Material Engineering and Artificial Intelligence. [**PT Delameta Bilano**](https://delameta.com)
