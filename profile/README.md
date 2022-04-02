@@ -2,9 +2,7 @@
 
 Delameta AI Research is part of Department of Material Engineering and Artificial Intelligence, Research and Development Division at PT Delameta Bilano. Our team are researching, developing dan deploying machine learning and deep learning models mainly in computer vision tasks on tiny, edge and data center devices.
 
-### AI Products
-
-List of Delameta's Launched AI Products. 
+### Launched AI Products
 
 <ins>**Vision**</ins>
 
