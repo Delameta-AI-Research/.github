@@ -13,12 +13,18 @@ Delameta AI Research is part of Department of Material Engineering and Artificia
   - Vehicle Color and Logo Recognition. 
   - Automatic Number Plate Recognition (ANPR): [**Detailed ANPR**](https://delameta.com/#/screens/product/TRS/ALPR).
   - Bus-Truck and Moved-Vehicle Classification.
+  - Vehicle 3 Dimension Measurement.
 
 + **People Analytics**
   - People Counter.
+  - Face Recognition.
 
 + **Annotation Service**
   - **KAT**: 3D Object Detection Annotation Tool.
+
++ **Others**
+  - Analog Meter Detection.
+  - Water Turbidity Level Classification.
 
 ---
 &copy; **2022** Department of Material Engineering and Artificial Intelligence. [**PT Delameta Bilano**](https://delameta.com)
