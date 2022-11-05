@@ -11,7 +11,7 @@ Delameta AI Research is part of Department of Material Engineering and Artificia
   - Traffic Statistics (counter, average speed, occupancy, headway, etc).
   - Traffic Counting.
   - Vehicle Color and Logo Recognition. 
-  - Automatic Number Plate Recognition (ANPR): Multi Line Free Flow (MLFF) and [**Stop Flow**](https://delameta.com/#/screens/product/TRS/ALPR).
+  - Automatic Number Plate Recognition (ANPR): Mainroad and [**Gate**](https://delameta.com/#/screens/product/TRS/ALPR).
   - Vehicle and Moved-Vehicle Classification.
   - Vehicle 3 Dimension Measurement.
 
